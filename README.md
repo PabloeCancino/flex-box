@@ -19,7 +19,7 @@ graph TD
     I["Set n++"]
     J["Set x_0=x"]
     K["Print('El método ha fallado después de N iteraciones') "]
-    End["Fin]
+    End["Fin"]
 
     %% Definición del flujograma
     Start --> A
